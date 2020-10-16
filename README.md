@@ -1,1 +1,1 @@
-# Hello from VuePress
+# Hello from VuePress Static WebApp
